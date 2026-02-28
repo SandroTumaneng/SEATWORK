@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.event.*;
 
-public class Assignment1partThree {
+public class Ass1PartThree {
     public static void main(String[] args) {
 
         JFrame frame = new JFrame("Login Form");
