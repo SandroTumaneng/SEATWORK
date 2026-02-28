@@ -29,7 +29,7 @@ class Product {
     }
 }
 
-public class swtwo {
+public class seatworkTwo {
     public static void main(String[] args) {
 
         Product p = new Product("Gaming Mouse", 1500.5, 3);
