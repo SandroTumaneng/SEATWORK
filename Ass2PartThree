@@ -16,6 +16,6 @@ public class Ass2PartThree {
         frame.add(new JButton("3"));
         frame.add(new JButton("4"));
 
-        frame.setVisible(true);
+        frame.setVisible(true)
     }
 }
