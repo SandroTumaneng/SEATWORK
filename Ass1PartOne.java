@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Assignment1partOne {
+public class Ass1PartOne {
     public static void main(String[] args) {
 
         JFrame frame = new JFrame("My First Swing Window");
