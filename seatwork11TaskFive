@@ -1,7 +1,7 @@
 import java.util.Timer;
 import java.util.TimerTask;
 
-public class seatwork11TaskFiv {
+public class seatwork11TaskFive {
     public static void main(String[] args) {
 
         // Timer = Class that schedules tasks at specific times or periodically
