@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.event.*;
 
-public class Assignment1partTwo {
+public class Ass1PartTwo {
     public static void main(String[] args) {
 
         JFrame frame = new JFrame("Button Example");
