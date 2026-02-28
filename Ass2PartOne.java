@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Assignment2partOne {
+public class Ass2PartOne {
     public static void main(String[] args) {
         JFrame frame = new JFrame("FlowLayout Example");
         frame.setSize(300, 200);
